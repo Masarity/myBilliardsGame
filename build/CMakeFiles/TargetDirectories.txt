@@ -1,0 +1,3 @@
+/media/masa/Masa/Masa/ubuntu/learning2/sfml_learning/myBilliardsGame/build/CMakeFiles/edit_cache.dir
+/media/masa/Masa/Masa/ubuntu/learning2/sfml_learning/myBilliardsGame/build/CMakeFiles/rebuild_cache.dir
+/media/masa/Masa/Masa/ubuntu/learning2/sfml_learning/myBilliardsGame/build/CMakeFiles/startGame.dir
